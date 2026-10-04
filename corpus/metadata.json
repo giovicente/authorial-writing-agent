@@ -6,7 +6,9 @@
         "type": "technical",
         "format": "article",
         "quality": "good",
-        "topics": ["cloud computing"]
+        "topics": [
+            "cloud computing"
+        ]
     },
     {
         "id": "article-002",
@@ -15,7 +17,10 @@
         "type": "technical",
         "format": "article",
         "quality": "canonical",
-        "topics": ["software engineering", "project management"]
+        "topics": [
+            "software engineering",
+            "project management"
+        ]
     },
     {
         "id": "article-003",
@@ -24,7 +29,11 @@
         "type": "technical",
         "format": "article",
         "quality": "canonical",
-        "topics": ["IT certifications", "cloud computing", "career development"]
+        "topics": [
+            "IT certifications",
+            "cloud computing",
+            "career development"
+        ]
     },
     {
         "id": "article-004",
@@ -33,16 +42,38 @@
         "type": "technical",
         "format": "article",
         "quality": "canonical",
-        "topics": ["clean code", "software engineering", "software design"]
+        "topics": [
+            "clean code",
+            "software engineering",
+            "software design"
+        ]
     },
     {
         "id": "article-005",
         "file": "article-005-swe-first-opportunity-in-2026.md",
         "year": 2026,
-        "type": "technical",
+        "type": "career",
         "format": "article",
         "quality": "good",
-        "topics": ["software engineering", "career development", "artificial intelligence"]
+        "topics": [
+            "software engineering",
+            "career development",
+            "artificial intelligence"
+        ]
+    },
+    {
+        "id": "article-006",
+        "file": "article-006-leading-while-autistic.md",
+        "year": 2026,
+        "type": "leadership",
+        "format": "article",
+        "quality": "canonical",
+        "topics": [
+            "leadership",
+            "autism",
+            "neurodiversity",
+            "self-awareness"
+        ]
     },
     {
         "id": "post-001",
@@ -51,6 +82,11 @@
         "type": "technical",
         "format": "linkedin_post",
         "quality": "canonical",
-        "topics": ["PERT", "project estimation", "Java", "clean architecture"]
+        "topics": [
+            "PERT",
+            "project estimation",
+            "Java",
+            "clean architecture"
+        ]
     }
 ]
