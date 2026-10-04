@@ -1,0 +1,56 @@
+[
+    {
+        "id": "article-001",
+        "file": "article-001-cloud.md",
+        "year": 2020,
+        "type": "technical",
+        "format": "article",
+        "quality": "good",
+        "topics": ["cloud computing"]
+    },
+    {
+        "id": "article-002",
+        "file": "article-002-mmm.md",
+        "year": 2021,
+        "type": "technical",
+        "format": "article",
+        "quality": "canonical",
+        "topics": ["software engineering", "project management"]
+    },
+    {
+        "id": "article-003",
+        "file": "article-003-it-certifications.md",
+        "year": 2023,
+        "type": "technical",
+        "format": "article",
+        "quality": "canonical",
+        "topics": ["IT certifications", "cloud computing", "career development"]
+    },
+    {
+        "id": "article-004",
+        "file": "article-004-favorite-clean-code-chapter.md",
+        "year": 2024,
+        "type": "technical",
+        "format": "article",
+        "quality": "canonical",
+        "topics": ["clean code", "software engineering", "software design"]
+    },
+    {
+        "id": "article-005",
+        "file": "article-005-swe-first-opportunity-in-2026.md",
+        "year": 2026,
+        "type": "technical",
+        "format": "article",
+        "quality": "good",
+        "topics": ["software engineering", "career development", "artificial intelligence"]
+    },
+    {
+        "id": "post-001",
+        "file": "post-001-presenting-pert-project.md",
+        "year": 2024,
+        "type": "technical",
+        "format": "linkedin_post",
+        "quality": "canonical",
+        "topics": ["PERT", "project estimation", "Java", "clean architecture"]
+    }
+]
