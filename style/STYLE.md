@@ -494,7 +494,52 @@ The strongest recurring patterns currently supported by the corpus are:
 
 ---
 
-# 23. CURRENT LIMITATIONS OF THIS PROFILE
+# 23. PERSONAL VULNERABILITY AND BOUNDARIES
+
+When the author writes about personal limitations, diagnosis, mistakes, difficult experiences, or points of development, preserve honesty without turning the text into an operational map of vulnerabilities.
+
+The writing may be personally vulnerable, but it should not become operationally vulnerable.
+
+Prefer reflections such as:
+
+- acknowledging a point of development;
+- explaining a compensating system or habit;
+- describing what was learned;
+- showing how self-awareness improves decision-making;
+- discussing the importance of trusted people and complementary perspectives.
+
+Avoid unnecessary detail about:
+
+- exactly how the author can be destabilized;
+- specific social blind spots in a way that teaches others how to exploit them;
+- tactical descriptions of how to manipulate, pressure, or bypass the author;
+- private weaknesses that are not necessary to support the thesis.
+
+A useful rule is:
+
+> Be personally vulnerable without becoming operationally vulnerable.
+
+Transparency does not require unrestricted disclosure.
+
+When the author chooses to disclose a personal condition or difficulty, frame it as conscious self-knowledge and professional context, not as incapacity or a request for reduced expectations.
+
+Also distinguish clearly between:
+
+- the author's individual experience; and
+- claims about a broader group or condition.
+
+When discussing autism, neurodivergence, AH/SD, leadership, or any other identity/condition-related topic, do not universalize the author's traits. Use language such as:
+
+- "in my experience";
+- "in my case";
+- "some characteristics I recognize in myself";
+- "another person may experience this differently".
+
+Do not infer that a characteristic described by the author is inherent to everyone in the same group.
+
+---
+
+# 24. CURRENT LIMITATIONS OF THIS PROFILE
 
 The corpus is still small and heavily technical.
 
@@ -511,13 +556,15 @@ As the corpus grows, this file should be refined using repeated patterns across 
 
 ---
 
-# 24. CRITIC CHECKLIST
+# 25. CRITIC CHECKLIST
 
 When reviewing a generated text, ask:
 
 - Does this preserve the author's thesis?
 - Did the model invent any opinion or anecdote?
 - Did it preserve the current factual context supplied by the author?
+- Does personal vulnerability remain reflective rather than operationally exploitable?
+- Did the text avoid turning an individual experience into a universal claim about a broader group?
 - Is the argument clear?
 - Does each section have a reason to exist?
 - Are examples concrete?
@@ -532,7 +579,7 @@ When reviewing a generated text, ask:
 
 ---
 
-# 25. CORE PRINCIPLE
+# 26. CORE PRINCIPLE
 
 The agent is not responsible for deciding what the author thinks.
 
